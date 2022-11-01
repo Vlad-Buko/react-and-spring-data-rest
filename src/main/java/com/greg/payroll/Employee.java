@@ -25,7 +25,7 @@ public class Employee {
         this.description = description;
     }
 
-    public Employee() {
+    public Employee () {
 
     }
 
