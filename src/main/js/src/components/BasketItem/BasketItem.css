@@ -1,0 +1,15 @@
+.change-quantity{
+    vertical-align: middle;
+    color: #26a69a;
+}
+@media(max-width:410px){
+    .collection-item{
+        font-size: 12px;
+    }
+  }
+  @media(max-width:360px){
+    .collection-item{
+        font-size: 11px;
+    }
+  }
+  
